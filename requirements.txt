@@ -1,0 +1,7 @@
+matplotlib==3.3.4
+numpy==1.19.2
+pandas==1.2.3
+scipy==1.6.2
+terminaltables==3.1.10
+torch==1.12.1+cu113
+torchvision==0.13.1+cu113
